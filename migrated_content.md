@@ -54,27 +54,27 @@ Form](https://docs.google.com/forms/d/1nTu79MZWNVOrUDh09T9iPiIFiG58q0x53gTvaDJOz
   - Our 1st meetup was on 8th June, 2019:
     1.  Introduction by [Jyoti Raval](https://twitter.com/JenyRaval) and
         [Nirav Patel](https://twitter.com/niravvhackky)
-        ([Slides](https://www.owasp.org/index.php/File:1._OWASP_Pune_First_Meetup.pdf))
+        ([Slides](/www-pdf-archive/File:1._OWASP_Pune_First_Meetup.pdf))
     2.  Application Security in Current Era by Ajit Dhumale
-        ([Slides](https://www.owasp.org/index.php/File:Application_Security_in_Current_Era_-_Ajit_Dhumale.pdf))
+        ([Slides](/www-pdf-archive/File:Application_Security_in_Current_Era_-_Ajit_Dhumale.pdf))
 
 <!-- end list -->
 
   - Our 2nd Meetup was on 24th August, 2019:
     1.  IoT Device Pentest by [Shubham
         Chougule](https://twitter.com/shubhamtc)
-        ([Slides](https://www.owasp.org/index.php/File:IoT_Device_Pentest_by_Shubham_Chougule.pdf))
+        ([Slides](/www-pdf-archive/File:IoT_Device_Pentest_by_Shubham_Chougule.pdf))
     2.  Buffer Overflow by [Renuka
         Sharma](https://twitter.com/renusharma3031)
-        ([Slides](https://www.owasp.org/index.php/File:Buffer_overflow_by_Renuka_Sharma.pdf))
+        ([Slides](/www-pdf-archive/File:Buffer_overflow_by_Renuka_Sharma.pdf))
     3.  Pentesting AWS by [Anand Varia](https://twitter.com/_0xVariable)
-        ([Slides](https://www.owasp.org/index.php/File:Pentesting_AWS_by_Anand_Varia.pdf))
+        ([Slides](/www-pdf-archive/File:Pentesting_AWS_by_Anand_Varia.pdf))
   - Our 3rd Meetup was on 23rd November, 2019:
     1.  You can't secure what you are not aware of\! by [Pramod
         Rana](https://twitter.com/iamvarchashva)
         ([Slides](https://drive.google.com/file/d/1mk0kjoPt6mbQhilJ0zyIQYmmLtp90yHo/view?usp=sharing))
     2.  XXE Exploitation by [Nirav
         Patel](https://twitter.com/nirav4peace)
-        ([Slides](https://www.owasp.org/index.php/File:XXE_Exploitation.pdf))
+        ([Slides](/www-pdf-archive/File:XXE_Exploitation.pdf))
 
-[Category:OWASP Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP Chapter](Category:OWASP_Chapter )
