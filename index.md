@@ -1,54 +1,62 @@
 ---
-
 layout: col-sidebar
 title: OWASP Pune
-tags: example-tag
-level: 0
-
-region: Middle East
-
-auto-migrated: 1
-
+site_side: true
+tags: pune
+level: 3
+region: Asia
+currency: inr
 ---
 
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+<!-- rebuild -->
 
-{front matter for this file}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+OWASP Pune
+-------------
+Welcome to the Pune chapter homepage. The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. The chapter leaders are <a href="mailto:jyoti.raval@owasp.org">Jyoti Raval</a>, <a href="mailto:pramod.rana@owasp.org">Pramod Rana</a> and <a href="mailto:nirav.patel@owasp.org">Nirav Patel</a>. 
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
+Follow chapter news on [Linkedin](https://www.linkedin.com/groups/7022347) | [Twitter](https://twitter.com/owasp_pune) | [Meetup.com](https://www.meetup.com/OWASP-Pune-Chapter) | [Discord](https://discord.gg/zhynx3s) | [Telegram](https://t.me/joinchat/LYupoRTKnq2jU6cjXKlxAg)
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+Speaking at OWASP Pune Chapter Events
+---------------------------------------
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+#### Call For Speakers
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Pune Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
 
-```
-{info.md}
+Supporting Organisation
+-----------------------
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+[Qualys](https://www.qualys.com)
 
-{leaders.md}
+Previous Meetup Information
+---------------------------------------
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+  - Our 1st meetup was on 8th June, 2019:
+    1.  Introduction by [Jyoti Raval](https://twitter.com/JenyRaval) and
+        [Nirav Patel](https://twitter.com/niravvhackky)
+        ([Slides](/www-pdf-archive/File:1._OWASP_Pune_First_Meetup.pdf))
+    2.  Application Security in Current Era by Ajit Dhumale
+        ([Slides](/www-pdf-archive/File:Application_Security_in_Current_Era_-_Ajit_Dhumale.pdf))
 
--->
+  - Our 2nd Meetup was on 24th August, 2019:
+    1.  IoT Device Pentest by [Shubham
+        Chougule](https://twitter.com/shubhamtc)
+        ([Slides](/www-pdf-archive/File:IoT_Device_Pentest_by_Shubham_Chougule.pdf))
+    2.  Buffer Overflow by [Renuka
+        Sharma](https://twitter.com/renusharma3031)
+        ([Slides](/www-pdf-archive/File:Buffer_overflow_by_Renuka_Sharma.pdf))
+    3.  Pentesting AWS by [Anand Varia](https://twitter.com/_0xVariable)
+        ([Slides](/www-pdf-archive/File:Pentesting_AWS_by_Anand_Varia.pdf))
+  - Our 3rd Meetup was on 23rd November, 2019:
+    1.  You can't secure what you are not aware of\! by [Pramod
+        Rana](https://twitter.com/iamvarchashva)
+        ([Slides](https://drive.google.com/file/d/1mk0kjoPt6mbQhilJ0zyIQYmmLtp90yHo/view?usp=sharing))
+    2.  XXE Exploitation by [Nirav
+        Patel](https://twitter.com/nirav4peace)
+        ([Slides](/www-pdf-archive/File:XXE_Exploitation.pdf))
+   - Our 4th Meetup was on 11th January, 2020:
+     1. Secure Coding Proactive Controls by [Prasad
+        Salvi](https://twitter.com/prasad_salvi)([Slides](/www-pdf-archive/File:Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
