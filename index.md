@@ -5,7 +5,11 @@ site_side: true
 tags: pune
 level: 3
 region: Asia
-currency: inr
+currency: in
+meetup-group: OWASP-Pune-Chapter
+country: India
+postal-code: 
+
 ---
 
 
