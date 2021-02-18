@@ -4,7 +4,7 @@ displaytext: Previous Meetup Information
 layout: null
 tab: true
 order: 4
-tags: pune
+tags: owasp-pune
 ---
 
 Previous Meetup Information
