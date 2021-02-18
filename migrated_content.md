@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Pune
-tags: example-tag
+tags: owasp-pune
 level: 0
 
 region: Middle East
@@ -40,10 +40,6 @@ Form](https://docs.google.com/forms/d/1nTu79MZWNVOrUDh09T9iPiIFiG58q0x53gTvaDJOz
 <!-- end list -->
 
   - LinkedIn: <https://www.linkedin.com/groups/7022347>
-
-<!-- end list -->
-
-  - Discord: <https://discord.gg/zhynx3s>
 
 <!-- end list -->
 
