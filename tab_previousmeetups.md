@@ -14,6 +14,7 @@ Previous Meetup Information
      1. Secure Coding Proactive Controls by [Prasad
         Salvi](https://twitter.com/prasad_salvi)([Slides](Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
 
+<!-- end list -->
   
 - Our 3rd Meetup was on 23rd November, 2019:
     1.  You can't secure what you are not aware of\! by [Pramod
@@ -22,6 +23,8 @@ Previous Meetup Information
     2.  XXE Exploitation by [Nirav
         Patel](https://twitter.com/nirav4peace)
         ([Slides](XXE_Exploitation.pdf))
+
+<!-- end list -->
 
 - Our 2nd Meetup was on 24th August, 2019:
     1.  IoT Device Pentest by [Shubham
@@ -32,6 +35,8 @@ Previous Meetup Information
         ([Slides](Buffer_overflow_by_Renuka_Sharma.pdf))
     3.  Pentesting AWS by [Anand Varia](https://twitter.com/_0xVariable)
         ([Slides](Pentesting_AWS_by_Anand_Varia.pdf))
+
+<!-- end list -->
         
 - Our 1st meetup was on 8th June, 2019:
     1.  Introduction by [Jyoti Raval](https://twitter.com/JenyRaval) and
