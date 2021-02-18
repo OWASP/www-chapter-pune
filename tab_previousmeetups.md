@@ -12,7 +12,7 @@ Previous Meetup Information
 
 - Our 4th Meetup was on 11th January, 2020:
      1. Secure Coding Proactive Controls by [Prasad
-        Salvi](https://twitter.com/prasad_salvi)([Slides](../../meetups/2020/January/Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
+        Salvi](https://twitter.com/prasad_salvi)([Slides](../../tree/master/meetups/2020/January/Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
 
 <!-- end list -->
   
