@@ -11,7 +11,7 @@ Previous Meetup Information
 ---------------------------------------
 
 - Our 5th Meetup was on 20th February, 2021:
-    1. Linux commands and utilities for security testing by [Swapnil_Patil](https://twitter.com/sw4pn1lp) ([Slides](/meetups/2021/February/Linux_commands_and_utilities_for_security_testing_by_Swapnil_Patil.pdf))
+    1. Linux commands and utilities for security testing by [Swapnil_Patil](https://twitter.com/sw4pn1lp) ([Slides](meetups/2021/February/Linux_commands_and_utilities_for_security_testing_by_Swapnil_Patil.pdf))
 
 
 <!-- end list -->
