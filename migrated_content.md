@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Pune
-tags: example-tag
+tags: owasp-pune
 level: 0
 
 region: Middle East
@@ -43,10 +43,6 @@ Form](https://docs.google.com/forms/d/1nTu79MZWNVOrUDh09T9iPiIFiG58q0x53gTvaDJOz
 
 <!-- end list -->
 
-  - Discord: <https://discord.gg/zhynx3s>
-
-<!-- end list -->
-
   - Telegram: <https://t.me/joinchat/LYupoRTKnq2jU6cjXKlxAg>
 
 ## Previous Meetup Information
@@ -61,20 +57,26 @@ Form](https://docs.google.com/forms/d/1nTu79MZWNVOrUDh09T9iPiIFiG58q0x53gTvaDJOz
 <!-- end list -->
 
   - Our 2nd Meetup was on 24th August, 2019:
-    1.  IoT Device Pentest by [Shubham
-        Chougule](https://twitter.com/shubhamtc)
+    1.  IoT Device Pentest by [Shubham Chougule](https://twitter.com/shubhamtc)
         ([Slides](/www-pdf-archive/File:IoT_Device_Pentest_by_Shubham_Chougule.pdf))
-    2.  Buffer Overflow by [Renuka
-        Sharma](https://twitter.com/renusharma3031)
+    2.  Buffer Overflow by [Renuka Sharma](https://twitter.com/renusharma3031)
         ([Slides](/www-pdf-archive/File:Buffer_overflow_by_Renuka_Sharma.pdf))
     3.  Pentesting AWS by [Anand Varia](https://twitter.com/_0xVariable)
         ([Slides](/www-pdf-archive/File:Pentesting_AWS_by_Anand_Varia.pdf))
+
+<!-- end list -->
+
   - Our 3rd Meetup was on 23rd November, 2019:
-    1.  You can't secure what you are not aware of\! by [Pramod
-        Rana](https://twitter.com/iamvarchashva)
-        ([Slides](https://drive.google.com/file/d/1mk0kjoPt6mbQhilJ0zyIQYmmLtp90yHo/view?usp=sharing))
-    2.  XXE Exploitation by [Nirav
-        Patel](https://twitter.com/nirav4peace)
+    1.  You can't secure what you are not aware of\! by [Pramod Rana](https://twitter.com/iamvarchashva)
+        ([Slides](/www-pdf-archive/File:Let%E2%80%99s%20Map%20Your%20Network_OWASP_23.11.2019%20(1).pdf))
+    2.  XXE Exploitation by [Nirav Patel](https://twitter.com/nirav4peace)
         ([Slides](/www-pdf-archive/File:XXE_Exploitation.pdf))
+
+<!-- end list -->
+
+- Our 4th Meetup was on 11th January, 2020:
+    1.  Secure Coding Proactive Controls by [Prasad Salvi](https://twitter.com/prasad_salvi)
+        ([Slides](/www-pdf-archive/File:Secure_Coding_Proactive_Controls-Prasad_Salvi.pdf))
+
 
 [Category:OWASP Chapter](Category:OWASP_Chapter )
