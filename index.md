@@ -2,7 +2,7 @@
 layout: col-sidebar
 title: OWASP Pune
 site_side: true
-tags: pune
+tags: owasp-pune
 level: 3
 region: Asia
 currency: in
