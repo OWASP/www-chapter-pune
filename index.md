@@ -13,8 +13,6 @@ postal-code:
 ---
 
 
-<!-- rebuild -->
-
 
 OWASP Pune
 ----------
@@ -22,6 +20,9 @@ Welcome to the Pune chapter homepage. The Open Web Application Security Project 
 
 Follow chapter news on [Linkedin](https://www.linkedin.com/groups/7022347) \| [Twitter](https://twitter.com/owasp_pune) \| [Meetup](https://www.meetup.com/OWASP-Pune-Chapter) \| [Telegram](https://t.me/joinchat/LYupoRTKnq2jU6cjXKlxAg)
 
+## Upcoming Meeting:
+
+{% include chapter_events.html group=page.meetup-group %}
 
 Speaking at OWASP Pune Chapter Events
 -------------------------------------
