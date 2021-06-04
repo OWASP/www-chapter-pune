@@ -1,6 +1,6 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+* [OWASP Policies and Procedures](https://owasp.org/www-policy/)
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/OWASP-Pune-Chapter/)
+* [Social Link](#)
