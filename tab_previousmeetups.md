@@ -10,6 +10,12 @@ tags: owasp-pune
 Previous Meetup Information
 ---------------------------------------
 
+- Our 6th Meetup was on 19th June, 2021:
+    1. Attacking GraphQL APIs by [Ali Jujara](https://twitter.com/alijujara7) ([Slides](meetups/2021/June/Attacking%20GraphQL%20APIs.pptx))
+
+
+<!-- end list -->
+
 - Our 5th Meetup was on 20th February, 2021:
     1. Linux commands and utilities for security testing by [Swapnil_Patil](https://twitter.com/sw4pn1lp) ([Slides](meetups/2021/February/Linux_commands_and_utilities_for_security_testing_by_Swapnil_Patil.pdf))
 
