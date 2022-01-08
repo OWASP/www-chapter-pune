@@ -10,6 +10,12 @@ tags: owasp-pune
 Previous Meetup Information
 ---------------------------------------
 
+- Our 7th Meetup was on 08th January, 2022:
+    1. The criticality of managing an appsec program by [Ankit Giri](https://twitter.com/aankitgiri) ([Slides](https://prezi.com/view/ec9KRdlX3s2qkZJa6VKt/))
+
+
+<!-- end list -->
+
 - Our 6th Meetup was on 19th June, 2021:
     1. Attacking GraphQL APIs by [Ali Jujara](https://twitter.com/alijujara7) ([Slides](meetups/2021/June/Attacking%20GraphQL%20APIs.pptx))
 
