@@ -31,7 +31,7 @@ Speaking at OWASP Pune Chapter Events
 
 Call For Speakers is open - if you would like to present a talk on Application Security or any trending security topics at future OWASP Pune Chapter events - please review and agree with the [OWASP Speaker Agreement](Speaker_Agreement "wikilink") and send the proposed talk title, abstract and speaker bio to the Chapter Leaders via e-mail.
 
-Supporting Organisation
+Supporting Organization
 -----------------------
 
-[Qualys](https://www.qualys.com)
+[<img width="210" alt="Screenshot 2022-06-22 at 4 28 14 PM" src="https://user-images.githubusercontent.com/5736792/175013075-4b757075-72d5-41eb-be6f-643984ffa527.png">](https://harness.io/)
