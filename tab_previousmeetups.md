@@ -10,6 +10,12 @@ tags: owasp-pune
 Previous Meetup Information
 ---------------------------------------
 
+- Our 8th Meetup was on 02nd July, 2022:
+    1. How to keep your dependencies secure and up-to-date by [Pramod Rana](https://twitter.com/iamvarchashva) ([Slides](meetups/2022/July/dependency_security.pdf))
+
+
+<!-- end list -->
+
 - Our 7th Meetup was on 08th January, 2022:
     1. The criticality of managing an appsec program by [Ankit Giri](https://twitter.com/aankitgiri) ([Slides](https://prezi.com/view/ec9KRdlX3s2qkZJa6VKt/))
 
