@@ -9,6 +9,16 @@ tags: owasp-pune
 
 Previous Meetup Information
 ---------------------------------------
+- Our 9th Meetup was on 24th September, 2022:
+    1. Protect what matters! by Shubham Jindal, Technical Lead, TraceableAI ([Slides](meetups/2022/September/Protect%20What%20Matters.pptx))
+    2. API testing methodology by Jyoti Raval, Staff Product Security Engineer, Harness ([Slides](meetups/2022/September/API%20testing%20methdology%20-%20OWASP%20Pune%20(1).pdf))
+    3. SecOps automation with Open Source by Abhishek Saxena, Founder & CEO, Unskript ([Slides](meetups/2022/September/CloudSecOps%20Made%20Easy%20with%20OSS.pptx))
+    4. vPrioritizer: the art of risk prioritization by Pramod Rana, Manager - Application Security, NetSkope ([Slides](meetups/2022/September/vPrioritizer%20-%20OWASP%20Pune%20%2B%20API%20Security%20(24_09)%20(1).pdf))
+    5. Digital Payments, APIs, and Security by Karan Manshani, Vice President - Payments, Easebuzz ([Slides](meetups/2022/September/Digital%20Payments%2C%20APIs%2C%20and%20Security.pptx))
+    6. Demystifying cloud security with AWS: fundamentals and best practices, Speaker: Vishal Alhat, Senior Engineer, Forcepoint Inc. ([Slides](meetups/2022/September/Demystifying_security_API_SECURITY_DAY.pdf))
+
+
+<!-- end list -->
 
 - Our 8th Meetup was on 02nd July, 2022:
     1. How to keep your dependencies secure and up-to-date by [Pramod Rana](https://twitter.com/iamvarchashva) ([Slides](meetups/2022/July/dependency_security.pdf))
