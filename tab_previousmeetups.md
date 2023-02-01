@@ -12,8 +12,8 @@ Previous Meetup Information
 <!-- end list -->
 
 - Our 10th Meetup was on 21st January, 2023:
-    1. Attacking and defending file upload vulnerability by [Praveen Sutar](https://twitter.com/praveensutar123) ([Slides](meetups/2023/Jan/dependency_security.pdf))
-    2. CSPM(Cloud Security Posture Management) - It's not a choice but a necessity by Shyam Thakur ([Slides](meetups/2023/Jan/dependency_security.pdf))
+    1. Attacking and defending file upload vulnerability by [Praveen Sutar](https://twitter.com/praveensutar123) ([Slides](meetups/2023/Jan/File-upload-Vulnerability-Praveen-Sutar.pptx.pdf))
+    2. CSPM(Cloud Security Posture Management) - It's not a choice but a necessity by Shyam Thakur ([Slides](meetups/2023/Jan/CSPM.pptx.pdf))
 
 
 <!-- end list -->
