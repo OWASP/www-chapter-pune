@@ -9,6 +9,14 @@ tags: owasp-pune
 
 Previous Meetup Information
 ---------------------------------------
+<!-- end list -->
+
+- Our 10th Meetup was on 21st January, 2023:
+    1. Attacking and defending file upload vulnerability by [Praveen Sutar](https://twitter.com/praveensutar123) ([Slides](meetups/2023/Jan/dependency_security.pdf))
+    2. CSPM(Cloud Security Posture Management) - It's not a choice but a necessity by Shyam Thakur ([Slides](meetups/2023/Jan/dependency_security.pdf))
+
+
+<!-- end list -->
 - Our 9th Meetup was on 24th September, 2022:
     1. Protect what matters! by Shubham Jindal, Technical Lead, TraceableAI ([Slides](meetups/2022/September/Protect%20What%20Matters.pptx))
     2. API testing methodology by Jyoti Raval, Staff Product Security Engineer, Harness ([Slides](meetups/2022/September/API%20testing%20methdology%20-%20OWASP%20Pune%20(1).pdf))
