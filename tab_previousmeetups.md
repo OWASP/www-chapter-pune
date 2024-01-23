@@ -11,6 +11,12 @@ Previous Meetup Information
 ---------------------------------------
 <!-- end list -->
 
+- Our 11th Meetup was on 20th January, 2024:
+    1. Unleashing the Power of Interactive Application Security Testing (IAST) by [Amol Gangurde] ([Slides](meetups/2024/Jan/OWASP%20Meetup%20Pune%2020%20Jan%2024%20-%20Interactive%20Application%20Security%20Testing.pdf))
+    2. DevSecOps- Why Should We Embrace It? by [Kamal Boolchandani] ([Slides](meetups/2024/Jan/OWASP%20Meetup%20Pune%2020%20Jan%2024%20-%20DevSecOps%20and%20Why%20Should%20We%20Embrace%20it.pdf))
+
+<!-- end list -->
+
 - Our 10th Meetup was on 21st January, 2023:
     1. Attacking and defending file upload vulnerability by [Praveen Sutar](https://twitter.com/praveensutar123) ([Slides](meetups/2023/Jan/File-upload-Vulnerability-Praveen-Sutar.pptx.pdf))
     2. CSPM(Cloud Security Posture Management) - It's not a choice but a necessity by Shyam Thakur ([Slides](meetups/2023/Jan/CSPM.pptx.pdf))
