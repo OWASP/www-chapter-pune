@@ -33,4 +33,4 @@ Call For Speakers is open - if you would like to present a talk on Application S
 Supporting Organization
 -----------------------
 
-[<img width="210" alt="logo.png" src="https://github.com/OWASP/www-chapter-pune/blob/master/assets/images/logo.png">](https://www.bakerhughes.com/)[<img width="210" alt="Supporting Organization - Netskope" src="https://user-images.githubusercontent.com/33921557/177086578-62fc5f2d-0dc9-4880-8d4f-a27186fc6d92.jpg" hspace=40>](https://netskope.com)
+[<img width="210" alt="logo.jpg" src="https://github.com/OWASP/www-chapter-pune/blob/master/assets/images/logo.jpg">](https://www.bakerhughes.com/)[<img width="210" alt="Supporting Organization - Netskope" src="https://user-images.githubusercontent.com/33921557/177086578-62fc5f2d-0dc9-4880-8d4f-a27186fc6d92.jpg" hspace=40>](https://netskope.com)
