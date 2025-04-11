@@ -12,8 +12,8 @@ Previous Meetup Information
 <!-- end list -->
 
 - Our [13th Meetup](https://www.meetup.com/owasp-pune-chapter/events/306910434/) was on 29th March, 2025:
-    1. Dos and Don'ts of Web Application Firewall - Cloud And On Premise by Shraddha Bhapkar ([Slides]())
-    2. How to have visibility and security OF CICD ecosystem by Pramod Rana ([Slides]())
+    1. Dos and Don'ts of Web Application Firewall - Cloud And On Premise by Shraddha Bhapkar ([Slides](meetups/2025/OWASP_%20WAF%20Session%20Mar2025.pdf))
+    2. How to have visibility and security OF CICD ecosystem by Pramod Rana ([Slides](meetups/2025/CICDGuard_OWASPPune_Mar2025.pdf))
 
 - Our 12th Meetup was on 18th May, 2024:
     1. Patch-Diffing - What, Why, and How by Gaurav Gogia ([Slides]())
