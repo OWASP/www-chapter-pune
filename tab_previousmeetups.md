@@ -11,14 +11,18 @@ Previous Meetup Information
 ---------------------------------------
 <!-- end list -->
 
+- Our [13th Meetup](https://www.meetup.com/owasp-pune-chapter/events/306910434/) was on 29th March, 2025:
+    1. Dos and Don'ts of Web Application Firewall - Cloud And On Premise by Shraddha Bhapkar ([Slides]())
+    2. How to have visibility and security OF CICD ecosystem by Pramod Rana ([Slides]())
+
 - Our 12th Meetup was on 18th May, 2024:
-    1. Patch-Diffing by Gaurav Gogia - What, Why, and How ([Slides]())
+    1. Patch-Diffing - What, Why, and How by Gaurav Gogia ([Slides]())
     2. Cloud Infrastructure Entitlement Management and a Case Study on AWS by Chinmay Tawde ([Slides]())
     3. OWASP smart contract top 10 by Harsh Tandel ([Slides]())
 
 
 - Our 11th Meetup was on 20th January, 2024:
-    1. Unleashing the Power of Interactive Application Security Testing (IAST) by [Amol Gangurde] ([Slides](meetups/2024/Jan/OWASP%20Meetup%20Pune%2020%20Jan%2024%20-%20Interactive%20Application%20Security%20Testing.pdf))
+    1. Unleashing the Power of Interactive Application Security Testing (IAST) by Amol Gangurde ([Slides](meetups/2024/Jan/OWASP%20Meetup%20Pune%2020%20Jan%2024%20-%20Interactive%20Application%20Security%20Testing.pdf))
     2. DevSecOps- Why Should We Embrace It? by [Kamal Boolchandani] ([Slides](meetups/2024/Jan/OWASP%20Meetup%20Pune%2020%20Jan%2024%20-%20DevSecOps%20and%20Why%20Should%20We%20Embrace%20it.pdf))
 
 <!-- end list -->
