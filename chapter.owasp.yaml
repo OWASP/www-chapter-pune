@@ -1,0 +1,29 @@
+currency: INR
+leaders:
+  - name: Pramod Rana
+    email: pramod.rana@owasp.org
+    github: varchashva
+  - name: Jyoti Raval
+    email: jyoti.raval@owasp.org
+    github: jyotiraval
+  - name: Prasad Salvi
+    email: prasad.salvi@owasp.org
+    github: prasadsalvi
+location:
+  country: India
+  country_code: IN
+  region: Maharashtra
+  city: Pune
+  latitude: 18.5213738
+  longitude: 73.8545071
+meetup_group: OWASP-Pune-Chapter
+name: OWASP Pune
+repositories:
+  - name: www-chapter-pune
+    url: https://github.com/OWASP/www-chapter-pune
+    description: OWASP Foundation Web Repository
+tags:
+  - owasp-pune
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-pune
